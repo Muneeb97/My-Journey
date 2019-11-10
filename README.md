@@ -1,3 +1,5 @@
-Just started learning python and its libraries. This will be the first repository of the many to come..
+Project Euler questions and answers with source code
 
-This will have basic python projects such as calculator based on terminal, basic library code snippets etc. As i go up the ladder and learn more skills and experience, higher level projects will be uploaded as well.
+1: sum of multiples of 3 and 5
+2: sum of even terms of fibo series upto n terms (till the next term is greater than 4 million)
+3:
