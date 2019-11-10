@@ -1,5 +1,6 @@
-Just started Python
+Project Euler :
+Problems and Source Codes with Python 3:
 
-This will include all projects I build with a little detail
-First, there will be the basic projects then as i go up the skill ladder many more projects with
-increasing difficulty will be uploaded.
+1: Sum of multiples of 3 and 5
+2: Sum of even terms of fibo series till the next term is greater than 4 million (till 'n' terms)
+3:
