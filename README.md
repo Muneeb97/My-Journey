@@ -2,5 +2,5 @@ Just started learning python and its libraries. This will be the first repositor
 
 This will have basic python projects such as calculator based on terminal, basic library code snippets etc. As i go up the ladder and learn more skills and experience, higher level projects will be uploaded as well.
 
-Master Branch : Random Projects \n
+Master Branch : Random Projects <br />
 First Branch : Project Euler Problems
